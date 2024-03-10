@@ -56,6 +56,7 @@
     <Compile Include="BodyTypeForPawnKind.cs" />
     <Compile Include="ModExtension_BodyTypesOfPawnKind.cs" />
     <Compile Include="ModExtension_HeadTypesOfPawnKind.cs" />
+    <Compile Include="ModExtension_StyleItemOfPawnKind.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
